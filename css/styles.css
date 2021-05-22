@@ -550,6 +550,7 @@ pre code {
   padding-left: 1.5rem;
   margin-right: auto;
   margin-left: auto;
+    align-content: center;
 }
 
 @media (min-width: 576px) {
@@ -10010,6 +10011,7 @@ h3 {
 }
 .page-section {
   padding: 6rem 0;
+    align-content: center;
 }
 .page-section .page-section-heading {
   font-size: 2.25rem;
@@ -10170,6 +10172,7 @@ h3 {
   }
 }
 .portfolio .portfolio-item {
+    align-content: center;
   cursor: pointer;
   position: relative;
   display: block;
